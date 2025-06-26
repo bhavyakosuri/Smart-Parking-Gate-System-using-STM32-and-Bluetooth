@@ -72,7 +72,7 @@ Smart-Parking-Gate-System/
 > 📽️ **Project in Action**  
 > Download or play the demo video:
 
-[▶️ Click here to view demo.mp4](https://github.com/bhavyakosuri/Smart-Parking-Gate-System-using-STM32-and-Bluetooth/blob/main/demo/demo.mp4)
+[▶️ Click here to view demo.mp4](https://github.com/bhavyakosuri/Smart-Parking-Gate-System-using-STM32-and-Bluetooth/blob/main/demo.mp4)
 
 
 ---
